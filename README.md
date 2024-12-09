@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Unsupervised and Supervised Machine Learning and Deep Learning for Anomaly Detection from tabular data and Image data(also with Load Injection and Adversarial Attacks). As a consequence i'm also learning the basics of TensorFlow, SciKit-Learn and Numpy except for matplotlib which i already have a solid background with. The objective would be to learn how to implement these solution in real life with different cases and situation, so I will update my repo from now on with some projects relative to that.**
 
-- 💬 Ask me about **Java in general, Java for backend programming, MySQL, PHP, Javascript, HTML, C language, RISC-V, Python, Assembly 8086(i dont remember much since highschool i'll be honest), a bit of Unreal Engine and Unity**
+- 💬 Ask me about **Java in general, Java for backend programming, MySQL, PHP, Javascript, HTML, C language, RISC-V, Python, Assembly 8086(i dont remember much since highschool i'll be honest). Also a little bit of Unreal Engine and Unity...**
 
 - 📫 How to reach me **tommasopastorelli39@gmail.com**
 
