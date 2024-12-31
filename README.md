@@ -17,6 +17,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
-  ![TommyyPasto's GitHub stats](https://github-readme-stats.vercel.app/api?username=TommyyPasto&hide=contribs,prs)
+  <img src="[https://github-readme-stats.vercel.app/api?username=TommyyPasto&locale=pt-br](https://github-readme-stats.vercel.app/api?username=TommyyPasto&show_icons=true&theme=radical)" />
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tommyypasto&show_icons=true&locale=en&layout=compact" alt="tommyypasto" /></p>
