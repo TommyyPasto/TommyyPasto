@@ -2,7 +2,7 @@
 
 # 👾 Tommaso Pastorelli
 
-**`Computer Science Student → ML Engineer in the making`**
+**`Computer Science graduate and AI masters degree student`**
 
 <p>
   Undergraduate at <strong>Università degli Studi di Firenze</strong> 🇮🇹 · Pistoia, Italy<br/>
